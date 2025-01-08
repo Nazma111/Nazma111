@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences - add resume
 
-**nazma111/nazma111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nazma111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
