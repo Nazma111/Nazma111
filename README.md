@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SmartHRM](https://github.com/OpenTechXLabs/SmartHRM)
 
-- 🌱 I’m currently learning **AZURE , PYTHON**
+- 🌱 I’m currently learning **Azure,Python**
 
 - 🤝 I’m looking for help with **DevOps Cloud**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on -
 
-- 💬 Ask me about **DevOps, AWS, GCP, Agile Development** 
+- 💬 Ask me about **DevOps, AWS, Docker , K8s** 
 
 - 📫 How to reach me **iamnazma.m@gmail.com**
 
